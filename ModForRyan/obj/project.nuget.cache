@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9b73P2EEjf6F1dd+HhxzB9N3e+kDNbDzH6O1nrFbh18D41yd5Vl6z75FOVU0yhSpsvWcxyR2JnPIxVczzOoy3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plsch\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\ModForRyan\\ModForRyan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plsch\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
